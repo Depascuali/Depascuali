@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Hey, my name is Tomas Depascuali. I'm 23 years old, and I'm currently studying for a Master in Management at ESCP Business School in Paris, following my major in Business at ITBA in Buenos Aires. While my profile isn't entirely technical, I'm interested in the world of technology and data. During my studies, I had the opportunity to learn programming languages like Python and SQL, given the data-oriented nature of the program at ITBA. Currently, my specialization in the Master in Management is "Applied Data Science" (As you can see, I'm interested in the whole world of data 🤔) 
+
+On my GitHub profile, I'll be uploading personal projects (when I find the time 😄). Usually, they'll be small things about topics that interest me and and that I enjoy doing. I'm intrigued by the intersection of business, finance, and technology and how we can combine them for maximum benefit. I've worked in various companies such as Danone, Media.Monks, and Google, always in roles related to business but incorporating programming concepts that boosted my performance. 
+
+I'm open to hearing proposals, projects, or just having a conversation! You can contact me at: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tomasdepascuali/)
+
+Thanks, and take care!
+
+Tomi
+
 <!--
 **Depascuali/Depascuali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
