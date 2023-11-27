@@ -4,7 +4,7 @@ Hey, my name is Tomas Depascuali. I'm 23 years old, and I'm currently studying f
 
 On my GitHub profile, I'll be uploading personal projects (when I find the time 😄). Usually, they'll be small things about topics that interest me and and that I enjoy doing. I'm intrigued by the intersection of business, finance, and technology and how we can combine them for maximum benefit. I've worked in various companies such as Danone, Media.Monks, and Google, always in roles related to business but incorporating programming concepts that boosted my performance. 
 
-I'm open to hearing proposals, projects, or just having a conversation! You can contact me at: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tomasdepascuali/)
+I'm open to hearing proposals, projects, or just having a conversation! You can contact me at: [![Linkedin Badge](https://img.shields.io/badge/-Depascuali-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tomasdepascuali/)
 
 Thanks, and take care!
 
